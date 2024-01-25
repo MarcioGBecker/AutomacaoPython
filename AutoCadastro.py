@@ -1,5 +1,4 @@
 # Importar as bibliotecas
-import os
 import pyautogui
 import time
 import pandas as pd
